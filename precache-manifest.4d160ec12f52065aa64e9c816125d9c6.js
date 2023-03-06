@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d00a35575195224e8aca4fad2d4d7ac",
+    "revision": "b63cffc101924c59ea9028e11ed894a7",
     "url": "/jamesbane/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jamesbane/static/css/2.3eb2a443.chunk.css"
   },
   {
-    "revision": "d83206d65150ec8a8640",
+    "revision": "7d0689e1390996f934f4",
     "url": "/jamesbane/static/css/main.185f4e0d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jamesbane/static/js/2.35c2bf5d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d83206d65150ec8a8640",
-    "url": "/jamesbane/static/js/main.162c3e1a.chunk.js"
+    "revision": "7d0689e1390996f934f4",
+    "url": "/jamesbane/static/js/main.08c5de8d.chunk.js"
   },
   {
     "revision": "d55ad534796cc662aa31",
