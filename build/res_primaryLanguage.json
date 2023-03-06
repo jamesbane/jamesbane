@@ -1,0 +1,294 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm James Bane. Full Stack Developer with 8 years of hands-on-experience designing, developing and implementing websites using modern Redux, SCSS, JavaScript frameworks, Django, Flask and PHP. Experienced at building responsive website with an in-depth understanding of modern web practices. Expert ability to convert designs to create stunning interactive pixel perfect websites. Detail oriented with ability to own a project, follow complex instructions, diagnose and resolve the issues. Proven ability to work in a fast-paced, team-oriented, dynamic environment Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "BabyDogeSwap",
+        "startDate": "2022",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Experienced the enterprise development for web3 & frontend development.",
+        "images": [
+          "/images/portfolio/babydogeswap/p1.png",
+          "/images/portfolio/babydogeswap/p2.png",
+          "/images/portfolio/babydogeswap/p3.png",
+          "/images/portfolio/babydogeswap/p4.png"
+        ],
+        "url": "https://babydogeswap.com",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-web3",
+            "name": "Web3 & Ethereum"
+          },
+          {
+            "class": "devicon-solidity-plain",
+            "name": "Solidity"
+          }
+        ]
+      },
+      {
+        "title": "BabyDoge Chess",
+        "startDate": "2022",
+        "description": "Individual project which is part of babydogeswap. Playing chess with babydogecoin and earning. I've built this project myalone to implement the logics.",
+        "images": [
+          "/images/portfolio/chess/p1.png",
+          "/images/portfolio/chess/p2.png",
+          "/images/portfolio/chess/p3.png"
+        ],
+        "url": "https://chess.babydogeswap.com",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-web3",
+            "name": "Web3 & Ethereum"
+          },
+          {
+            "class": "devicon-solidity-plain",
+            "name": "Solidity"
+          }
+        ]
+      },
+      {
+        "title": "Nafter",
+        "startDate": "2021",
+        "description": "First Project on Crypto NFTs. Built Bid, Buy, Burn NFT Items",
+        "images": [
+          "images/portfolio/nafter/p1.png",
+          "images/portfolio/nafter/p2.png"
+        ],
+        "url": "https://nafter.io",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-web3",
+            "name": "Web3 & Ethereum"
+          },
+          {
+            "class": "devicon-solidity-plain",
+            "name": "Solidity"
+          }
+        ]
+      },
+      {
+        "title": "Nifter",
+        "startDate": "2020",
+        "description": "Providing Bid, Buy, Burn NFT Art Items",
+        "images": [
+          "images/portfolio/nifter/p1.png",
+          "images/portfolio/nifter/p2.png"
+        ],
+        "url": "https://nifter.io",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-web3",
+            "name": "Web3 & Ethereum"
+          },
+          {
+            "class": "devicon-solidity-plain",
+            "name": "Solidity"
+          }
+        ]
+      },
+      {
+        "title": "Memepad",
+        "startDate": "2018",
+        "description": "First Project on crypto area. I've learned about web3 and ethereum, how to connect with smart contract and call SC functions. Staking, Swap, Claim Rewards NFT projects",
+        "images": [
+          "images/portfolio/memepad/p1.png",
+          "images/portfolio/memepad/p2.png",
+          "images/portfolio/memepad/p3.png"
+        ],
+        "url": "https://memepad.co",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-web3",
+            "name": "Web3 & Ethereum"
+          },
+          {
+            "class": "devicon-solidity-plain",
+            "name": "Solidity"
+          }
+        ]
+      },
+      {
+        "title": "Cubahaus",
+        "startDate": "2018",
+        "description": "Lead frontend team to build house rent system at Canada. Small community of international students sharing our time together. :)",
+        "images": [
+          "images/portfolio/cubahaus/p1.png",
+          "images/portfolio/cubahaus/p2.png"
+        ],
+        "url": "www.cubahaus.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "BabyDoge LLC",
+        "title": "Full Stack Developer",
+        "years": "10.2021 - 12.2022",
+        "mainTech": [
+          "React",
+          "Crypto",
+          "Web3",
+          "Ethereum"
+        ],
+        "technologies": [
+          "REST API",
+          "TypeScript",
+          "Styled Component",
+          "Web3.js",
+          "Ethereum",
+          "Wagmi",
+          "Solidity",
+          "Graphql",
+          "TradingView"
+        ]
+      },
+      {
+        "company": "Defi Project",
+        "title": "Web3 & Frontend Developer",
+        "years": "07.2018 - 07.2021",
+        "mainTech": [
+          "React",
+          "Crypto",
+          "Web3"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Nodejs",
+          "Graphql",
+          "React",
+          "WalletConnect"
+        ]
+      },
+      {
+        "company": "Volte Tech",
+        "title": "Full Stack Developer",
+        "years": "12.2017 - 05.2021",
+        "mainTech": [
+          "React",
+          "Django"
+        ],
+        "technologies": [
+          "TypeScript",
+          "Python",
+          "Django",
+          "React",
+          "Postgresql"
+        ]
+      },
+      {
+        "company": "Cubahaus",
+        "title": "Senior Frontend Developer",
+        "years": "08.2015 - 10.2017",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "TypeScript",
+          "JavaScript",
+          "react-saga",
+          "HTML",
+          "Material Design",
+          "Redux",
+          "SCSS"
+        ]
+      },
+      {
+        "company": "Wedobet",
+        "title": "Full Stack Developer",
+        "years": "08.2015 - 10.2017",
+        "mainTech": [
+          "PHP"
+        ],
+        "technologies": [
+          "Laravel",
+          "JavaScript",
+          "jQuery",
+          "HTML",
+          "Angular",
+          "Rxjs",
+          "CSS Admin Dashboard",
+          "MySql"
+        ]
+      }
+    ]
+  }
