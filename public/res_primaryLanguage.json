@@ -15,10 +15,10 @@
         "startDate": "2022",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Experienced the enterprise development for web3 & frontend development.",
         "images": [
-          "/images/portfolio/babydogeswap/p1.png",
-          "/images/portfolio/babydogeswap/p2.png",
-          "/images/portfolio/babydogeswap/p3.png",
-          "/images/portfolio/babydogeswap/p4.png"
+          "images/portfolio/babydogeswap/p1.png",
+          "images/portfolio/babydogeswap/p2.png",
+          "images/portfolio/babydogeswap/p3.png",
+          "images/portfolio/babydogeswap/p4.png"
         ],
         "url": "https://babydogeswap.com",
         "technologies": [
@@ -49,9 +49,9 @@
         "startDate": "2022",
         "description": "Individual project which is part of babydogeswap. Playing chess with babydogecoin and earning. I've built this project myalone to implement the logics.",
         "images": [
-          "/images/portfolio/chess/p1.png",
-          "/images/portfolio/chess/p2.png",
-          "/images/portfolio/chess/p3.png"
+          "images/portfolio/chess/p1.png",
+          "images/portfolio/chess/p2.png",
+          "images/portfolio/chess/p3.png"
         ],
         "url": "https://chess.babydogeswap.com",
         "technologies": [
