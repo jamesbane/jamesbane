@@ -7,6 +7,11 @@
           "name": "github",
           "url": "https://github.com/jamesbane",
           "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/james- Phone 920-368-3598 bane-7a36bb213/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpeg"
