@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jamesbane/static/css/main.e8901382.chunk.css",
+    "main.js": "/jamesbane/static/js/main.c81d8dd0.chunk.js",
+    "main.js.map": "/jamesbane/static/js/main.c81d8dd0.chunk.js.map",
+    "runtime-main.js": "/jamesbane/static/js/runtime-main.c2844c22.js",
+    "runtime-main.js.map": "/jamesbane/static/js/runtime-main.c2844c22.js.map",
+    "static/css/2.3eb2a443.chunk.css": "/jamesbane/static/css/2.3eb2a443.chunk.css",
+    "static/js/2.35c2bf5d.chunk.js": "/jamesbane/static/js/2.35c2bf5d.chunk.js",
+    "static/js/2.35c2bf5d.chunk.js.map": "/jamesbane/static/js/2.35c2bf5d.chunk.js.map",
+    "index.html": "/jamesbane/index.html",
+    "precache-manifest.eae022b54cf48a8319f8f091b27fba2f.js": "/jamesbane/precache-manifest.eae022b54cf48a8319f8f091b27fba2f.js",
+    "service-worker.js": "/jamesbane/service-worker.js",
+    "static/css/2.3eb2a443.chunk.css.map": "/jamesbane/static/css/2.3eb2a443.chunk.css.map",
+    "static/css/main.e8901382.chunk.css.map": "/jamesbane/static/css/main.e8901382.chunk.css.map",
+    "static/js/2.35c2bf5d.chunk.js.LICENSE.txt": "/jamesbane/static/js/2.35c2bf5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2844c22.js",
+    "static/css/2.3eb2a443.chunk.css",
+    "static/js/2.35c2bf5d.chunk.js",
+    "static/css/main.e8901382.chunk.css",
+    "static/js/main.c81d8dd0.chunk.js"
+  ]
+}

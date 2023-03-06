@@ -19,21 +19,14 @@ class App extends Component {
     };
   }
 
-  applyPickedLanguage(pickedLanguage, oppositeLangIconId) {
-    this.swapCurrentlyActiveLanguage(oppositeLangIconId);
+  applyPickedLanguage(pickedLanguage) {
     document.documentElement.lang = pickedLanguage;
-    var resumePath =
-      document.documentElement.lang === window.$primaryLanguage
-        ? `res_primaryLanguage.json`
-        : `res_secondaryLanguage.json`;
+    var resumePath = 'res_primaryLanguage.json';
     this.loadResumeFromPath(resumePath);
   }
 
   swapCurrentlyActiveLanguage(oppositeLangIconId) {
-    var pickedLangIconId =
-      oppositeLangIconId === window.$primaryLanguageIconId
-        ? window.$secondaryLanguageIconId
-        : window.$primaryLanguageIconId;
+    var pickedLangIconId = window.$primaryLanguageIconId;
     document
       .getElementById(oppositeLangIconId)
       .removeAttribute("filter", "brightness(40%)");
@@ -44,10 +37,7 @@ class App extends Component {
 
   componentDidMount() {
     this.loadSharedData();
-    this.applyPickedLanguage(
-      window.$primaryLanguage,
-      window.$secondaryLanguageIconId
-    );
+    this.applyPickedLanguage(window.$primaryLanguage);
   }
 
   loadResumeFromPath(path) {
@@ -86,10 +76,7 @@ class App extends Component {
         <div className="col-md-12 mx-auto text-center language">
           <div
             onClick={() =>
-              this.applyPickedLanguage(
-                window.$primaryLanguage,
-                window.$secondaryLanguageIconId
-              )
+              this.applyPickedLanguage(window.$primaryLanguage)
             }
             style={{ display: "inline" }}
           >
@@ -98,22 +85,6 @@ class App extends Component {
               data-icon="twemoji-flag-for-flag-united-kingdom"
               data-inline="false"
               id={window.$primaryLanguageIconId}
-            ></span>
-          </div>
-          <div
-            onClick={() =>
-              this.applyPickedLanguage(
-                window.$secondaryLanguage,
-                window.$primaryLanguageIconId
-              )
-            }
-            style={{ display: "inline" }}
-          >
-            <span
-              className="iconify language-icon"
-              data-icon="twemoji-flag-for-flag-poland"
-              data-inline="false"
-              id={window.$secondaryLanguageIconId}
             ></span>
           </div>
         </div>
